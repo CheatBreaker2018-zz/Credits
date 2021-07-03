@@ -1,9 +1,18 @@
-ALL RIGHTS RESERVED BY CHEATBREAKER AND FROZENORB.
+# Credits
+We obviously can not take credit for everything! (Still being written out until release)
 
-CHEATBREAKER WAS MADE BY THE CHEATBREAKER/FROZENORB DEVELOPMENT TEAM.
+### [CheatBreaker](https://github.com/CheatBreaker)
+ - It is obvious that this is not our client, therefore we can not take credit for it. All credit goes to the rightful owners & developers, this includes but is not limited to: [itsjhalt](https://github.com/jhalt), and all of [FrozenOrb](https://frozenorb.net)/[CheatBreaker](https://github.com/CheatBreaker).
 
-WE IN UNDER NO CIRCUMSTANCES CALL THE CLIENT ITSELF OURS. WE DO NOT GENERATE REVENUE FROM THIS VERSION OF CHEATBREAKER, WE FOLLOW THE TERMS PROVIDED BY JONATHAN HALTERMAN AND CHEATBREAKER/FROZENORB.
+- This version of CheatBreaker is only intended to bring back the vibes of CheatBreaker, 
+while also make it appealing to the community for use, with that said, we do not and will not ever generate revenue from this version of CheatBreaker. This version of CheatBreaker is also not a virus, or unsafe in any capacity. If you would like to read about CheatBreaker's official security advisory, click [here](https://github.com/CheatBreaker/Security-Advisory).
 
-THIS INCLUDES BUT IS NOT LIMITED TO: MAKING ANY FORM OF PROFIT FROM THIS VERSION OF CHEATBREAKER.
+### [Decencies](https://github.com/Decencies) & [Freddie](https://github.com/FreddieJLH)
+  - Remap of CheatBreaker for 1.8, and Voice Chat implementation on 1.7.
+  - New watermark animation.
+  - Dark mode drag selection colors.
 
-READ ABOUT CHEATBREAKER'S SECURITY ADVISORY HERE: https://github.com/CheatBreaker/Security-Advisory.
+### [Tellinq](https://github.com/Tellinq)
+  - Original idea for the VoiceChatHUD Mod.
+  - Original idea for the icon's next to player's names.
+  - Original CheatBreaker Dragon Wings
