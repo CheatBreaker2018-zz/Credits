@@ -1,5 +1,5 @@
 # Credits
-We obviously can not take credit for everything! (Still being written out until release)
+We obviously can not take credit for everything!
 
 ### [CheatBreaker](https://github.com/CheatBreaker)
  - It is obvious that this is not our client, therefore we can not take credit for it. All credit goes to the rightful owners & developers, this includes but is not limited to: [itsjhalt](https://github.com/jhalt), and all of [FrozenOrb](https://frozenorb.net)/[CheatBreaker](https://github.com/CheatBreaker).
