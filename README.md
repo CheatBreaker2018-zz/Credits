@@ -11,6 +11,7 @@ while also make it appealing to the community for use, with that said, we do not
   - Remap of CheatBreaker for 1.8, and Voice Chat implementation on 1.7.
   - New watermark animation.
   - Dark mode drag selection colors.
+  - Server Theme Idea
 
 ### [Tellinq](https://github.com/Tellinq)
   - Original idea for the VoiceChatHUD Mod.
