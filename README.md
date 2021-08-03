@@ -17,3 +17,6 @@ while also make it appealing to the community for use, with that said, we do not
   - Original idea for the VoiceChatHUD Mod.
   - Original idea for the icon's next to player's names.
   - Original CheatBreaker Dragon Wings
+
+### [Frosty](https://github.com/egirlfrosty)
+  - Set up mixins for us! Big props to her.
