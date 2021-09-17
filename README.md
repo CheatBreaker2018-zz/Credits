@@ -20,3 +20,6 @@ while also make it appealing to the community for use, with that said, we do not
 
 ### [Frosty](https://github.com/egirlfrosty)
   - Set up mixins for us! Big props to her.
+
+### [Offline CheatBreaker](https://offlinecheatbreaker.com)
+  - Launcher authentication system (Mojang & Microsoft) taken from the Offline CheatBreaker development team. Not endorsed, affiliated, or approved by them in any way.
